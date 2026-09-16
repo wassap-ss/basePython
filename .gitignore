@@ -1,12 +1,17 @@
 # Виртуальные окружения
 .venv/
+**/.venv/
 venv/
-env/
 
-# Python-кэш
+# Кэш Python
 __pycache__/
+**/__pycache__/
 *.py[cod]
-*.egg-info/
+
+# Данные и результаты проекта order_analysis
+order_analysis/data/*.csv
+order_analysis/reports/*.csv
+order_analysis/logs/*.log
 
 # Jupyter
 .ipynb_checkpoints/
