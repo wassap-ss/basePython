@@ -1,0 +1,2 @@
+2026-09-16 14:49:59,206 | ERROR | broken.csv: ValueError: колонка total_amount содержит нечисловые значения
+2026-09-16 15:25:50,221 | ERROR | broken.csv: ValueError: колонка total_amount содержит нечисловые значения
