@@ -1,0 +1,2 @@
+"order_id","person_id","order_date","status","total_amount","currency","payment_method","shipping_method","notes"
+1,2477,"2022-12-31","Delivered",FOR_THE_EMPEROR,"GBP","klarna","fedex",""
